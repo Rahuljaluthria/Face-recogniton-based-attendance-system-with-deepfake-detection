@@ -66,7 +66,7 @@ FaceLog/
 📦 Installation & Setup
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/FaceLog.git
+git clone https://github.com/Rahuljaluthria/FaceLog.git
 cd FaceLog
 
 2️⃣ Install Python Dependencies
