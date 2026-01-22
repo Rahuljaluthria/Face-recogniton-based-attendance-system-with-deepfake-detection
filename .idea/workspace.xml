@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7efb8490-8e58-47e5-ad7c-a3ca08eb9b5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Facelog/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Facelog/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facelog/deepfake_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Facelog/deepfake_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance/attendance.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/attendance/attendance.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clear_attendance.py" beforeDir="false" afterPath="$PROJECT_DIR$/clear_attendance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_face.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/temp_face.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Facerecognitonbasedattendancesystem\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQL File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Rahuljaluthria&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Rahuljaluthria/Face-recogniton-based-attendance-system-with-deepfake-detection.git&quot;,
+    &quot;accountId&quot;: &quot;b8f94433-3708-40cb-b472-9119d24a3041&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2uyktss4SOqTgfNvREBXgBsDjXK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Meso4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.attendance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binarytree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check_images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clear_attendance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deepfake_detector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.download-FaceForensics_v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.register_faces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_CNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_camera.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xception.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;CSV-Groovy.csv.groovy&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;CSV-Groovy.csv.groovy&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Facerecognitonbasedattendancesystem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Facerecognitonbasedattendancesystem\Facelog" />
+      <recent name="D:\Facerecognitonbasedattendancesystem\Facelog\utils" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7efb8490-8e58-47e5-ad7c-a3ca08eb9b5b" name="Changes" comment="" />
+      <created>1743228419686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743228419686</updated>
+      <workItem from="1743228420800" duration="1022000" />
+      <workItem from="1743230188488" duration="2861000" />
+      <workItem from="1743237969768" duration="9142000" />
+      <workItem from="1743258824732" duration="3107000" />
+      <workItem from="1743261962897" duration="823000" />
+      <workItem from="1743266548789" duration="2005000" />
+      <workItem from="1743268754233" duration="1700000" />
+      <workItem from="1743317395060" duration="792000" />
+      <workItem from="1743318381508" duration="2127000" />
+      <workItem from="1743323038912" duration="1819000" />
+      <workItem from="1743324880716" duration="1404000" />
+      <workItem from="1743327406634" duration="484000" />
+      <workItem from="1743328559480" duration="533000" />
+      <workItem from="1743329472296" duration="3425000" />
+      <workItem from="1743340547647" duration="1192000" />
+      <workItem from="1743353569459" duration="616000" />
+      <workItem from="1743440285680" duration="1741000" />
+      <workItem from="1743442185358" duration="889000" />
+      <workItem from="1743486977694" duration="405000" />
+      <workItem from="1743705339817" duration="90000" />
+      <workItem from="1743844436989" duration="5226000" />
+      <workItem from="1743855902129" duration="7348000" />
+      <workItem from="1743877332439" duration="1051000" />
+      <workItem from="1743883735159" duration="1460000" />
+      <workItem from="1743916092292" duration="4218000" />
+      <workItem from="1743927749657" duration="651000" />
+      <workItem from="1744006835368" duration="173000" />
+      <workItem from="1744037387359" duration="3341000" />
+      <workItem from="1744093366905" duration="321000" />
+      <workItem from="1744094513339" duration="1730000" />
+      <workItem from="1744105220734" duration="341000" />
+      <workItem from="1744106124565" duration="427000" />
+      <workItem from="1744107121492" duration="173000" />
+      <workItem from="1744124376499" duration="2885000" />
+      <workItem from="1744185697562" duration="4000" />
+      <workItem from="1744185811449" duration="2058000" />
+      <workItem from="1744217765723" duration="3061000" />
+      <workItem from="1744225874673" duration="1004000" />
+      <workItem from="1744227193181" duration="493000" />
+      <workItem from="1744227708382" duration="118000" />
+      <workItem from="1744227834280" duration="189000" />
+      <workItem from="1744228032375" duration="123000" />
+      <workItem from="1744228206139" duration="1069000" />
+      <workItem from="1744365379615" duration="8000" />
+      <workItem from="1744722776250" duration="1873000" />
+      <workItem from="1744788379101" duration="206000" />
+      <workItem from="1744788594626" duration="796000" />
+      <workItem from="1744789407114" duration="3139000" />
+      <workItem from="1744793715858" duration="702000" />
+      <workItem from="1744794478495" duration="90000" />
+      <workItem from="1744795447166" duration="183000" />
+      <workItem from="1744797249679" duration="3083000" />
+      <workItem from="1744912867638" duration="1726000" />
+      <workItem from="1744915010054" duration="649000" />
+      <workItem from="1744968530931" duration="1289000" />
+      <workItem from="1744987657464" duration="2292000" />
+      <workItem from="1744995375806" duration="878000" />
+      <workItem from="1744996273783" duration="1139000" />
+      <workItem from="1745082528101" duration="890000" />
+      <workItem from="1745400343098" duration="462000" />
+      <workItem from="1745487086705" duration="2908000" />
+      <workItem from="1745513247147" duration="282000" />
+      <workItem from="1745520519207" duration="1503000" />
+      <workItem from="1745554558376" duration="950000" />
+      <workItem from="1747329983765" duration="2564000" />
+      <workItem from="1747333688874" duration="6013000" />
+      <workItem from="1747668022612" duration="951000" />
+      <workItem from="1748168897702" duration="3000" />
+      <workItem from="1754040221333" duration="1027000" />
+      <workItem from="1755851709955" duration="185000" />
+      <workItem from="1760548026840" duration="843000" />
+      <workItem from="1769032920112" duration="1000" />
+      <workItem from="1769032936983" duration="1052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$test_camera.coverage" NAME="test_camera Coverage Results" MODIFIED="1743323709939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$deepfake_detector.coverage" NAME="deepfake_detector Coverage Results" MODIFIED="1744795575332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Facelog" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$scan.coverage" NAME="scan Coverage Results" MODIFIED="1744794082890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$app.coverage" NAME="app Coverage Results" MODIFIED="1747668367130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$clear_attendance.coverage" NAME="clear_attendance Coverage Results" MODIFIED="1769033170863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$attendance.coverage" NAME="attendance Coverage Results" MODIFIED="1743230962143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$download_FaceForensics_v3.coverage" NAME="download-FaceForensics_v3 Coverage Results" MODIFIED="1743844913791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deepfake-Detection-master" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$binarytree.coverage" NAME="binarytree Coverage Results" MODIFIED="1755851806670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$Meso4.coverage" NAME="Meso4 Coverage Results" MODIFIED="1743261641054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MesoNet_master" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$main.coverage" NAME="main Coverage Results" MODIFIED="1769032956429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$test_CNN.coverage" NAME="test_CNN Coverage Results" MODIFIED="1743845111157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Deepfake-Detection-master" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$xception.coverage" NAME="xception Coverage Results" MODIFIED="1743854939973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Facelog/model" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$register_faces.coverage" NAME="register_faces Coverage Results" MODIFIED="1743232766585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Facerecognitonbasedattendancesystem$check_images.coverage" NAME="check_images Coverage Results" MODIFIED="1743238987247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
