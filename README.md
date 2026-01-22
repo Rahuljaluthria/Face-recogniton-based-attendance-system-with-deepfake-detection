@@ -127,7 +127,6 @@ This project is licensed under the MIT License.
 🙌 Credits
 
 Built with 💻, ☕, and passion by Rahul.
-Gpu integration by Danish 
 
 ---
 
